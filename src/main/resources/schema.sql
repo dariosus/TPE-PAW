@@ -1,4 +1,4 @@
-1CREATE DATABASE propertiesDatabase WITH ENCODING = 'UTF8'
+CREATE DATABASE propertiesDatabase WITH ENCODING = 'UTF8'
     LC_TYPE = 'en_US.utf8' LC_COLLATE = 'en_US.utf8'
     TEMPLATE template0;
 
